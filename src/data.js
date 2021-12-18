@@ -1,9 +1,9 @@
-import image1 from './img/image1.PNG'
-import image2 from './img/image2.PNG'
-import image3 from './img/image3.PNG'
-import image4 from './img/image4.PNG'
-import image5 from './img/image5.PNG'
-import image6 from './img/image6.PNG'
+import image1 from './img/image1.png'
+import image2 from './img/image2.png'
+import image3 from './img/image3.png'
+import image4 from './img/image4.png'
+import image5 from './img/image5.png'
+import image6 from './img/image6.png'
 export const products = [
   {
     id: 1,
